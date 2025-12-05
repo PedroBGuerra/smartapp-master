@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SmartCity</string>
+    <string name="open_nav">Abrir menu</string>
+    <string name="close_nav">Fechar menu</string>
+    <string name="mobilidade">Mobilidade Urbana</string>
+    <string name="seguranca">Segurança Pública</string>
+    <string name="sustentabilidade">Sustentabilidade</string>
+    <string name="saude">Saúde e Bem-estar</string>
+    <string name="governanca">Governança Digital</string>
+    <string name="energia">Energia Inteligente</string>
+    <string name="agua">Gestão de Água</string>
+    <string name="residuos">Gestão de Resíduos</string>
+    <string name="home">Início</string>
+    <string name="explore">Explorar</string>
+    <string name="profile">Perfil</string>
+    <string name="favorites">Favoritos</string>
+    <string name="settings">Configurações</string>
+    <string name="logout">Sair</string>
+    <string name="smart_cities_desc">Cidades Inteligentes e Sustentáveis</string>
+    <string name="add_city">Adicionar Cidade</string>
+    <string name="delete">Deletar</string>
+    <string name="edit">Editar</string>
+    <string name="sobre_smart">Sobre Cidades Inteligentes</string>
+</resources>

@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.smartcity.app.R;
+
 public class CategoryDetailFragment extends Fragment {
 
     private static final String ARG_TITLE = "title";

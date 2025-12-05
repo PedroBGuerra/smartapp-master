@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="@color/card_bg"
+            app:cardBackgroundColor="@color/tech_blue"
             app:cardCornerRadius="12dp"
             app:cardElevation="8dp">
 
@@ -50,7 +50,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="@color/card_bg"
+            app:cardBackgroundColor="@color/tech_blue"
             app:cardCornerRadius="12dp"
             app:cardElevation="8dp">
 
@@ -85,7 +85,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="@color/card_bg"
+            app:cardBackgroundColor="@color/tech_blue"
             app:cardCornerRadius="12dp"
             app:cardElevation="8dp">
 
@@ -120,7 +120,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="@color/card_bg"
+            app:cardBackgroundColor="@color/tech_blue"
             app:cardCornerRadius="12dp"
             app:cardElevation="8dp">
 

@@ -14,7 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.smartcity.app.R;
+
 
 public class HomeFragment extends Fragment {
 

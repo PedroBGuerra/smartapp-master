@@ -13,4 +13,5 @@
     <color name="city_card_bg">#FF1F4F47</color>
     <color name="tech_blue">#FF0097A7</color>
     <color name="eco_green">#FF388E3C</color>
+    <color name="card_bg">#FF1F4F47</color>
 </resources>

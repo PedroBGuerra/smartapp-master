@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.smartcity.app"
+    namespace = "br.com.etecia.myapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.smartcity.app"
+        applicationId = "br.com.etecia.myapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
